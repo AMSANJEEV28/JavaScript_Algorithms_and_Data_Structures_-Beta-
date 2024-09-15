@@ -17,11 +17,12 @@ The JavaScript Algorithms and Data Structures Certification is designed to teach
 
 This repository includes the following projects:
 
-1. **Palindrome Checker**: Build an application that checks if a given word is a palindrome.
-2. **Roman Numeral Converter**: Create an application that converts integers to Roman numerals.
-3. **Telephone Number Validator**: Develop an application that validates if a number is a valid United States phone number.
-4. **Cash Register**: Construct a cash register web app to calculate change.
-5. **Pokémon Search App**: Build an app to search for Pokémon and display their details.
+1. **Palindrome Checker**
+2. **Roman Numeral Converter**
+3. **Telephone Number Validator**
+4. **Cash Register**
+5. **Pokémon Search App**
+6. **Etc... from begineer to advanced**
 
 ## Getting Started
 
