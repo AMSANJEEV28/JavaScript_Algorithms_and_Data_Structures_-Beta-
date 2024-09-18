@@ -30,7 +30,7 @@ To view and run the projects locally:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/AMSANJEEV28/JavaScript_Algorithms_and_Data_Structures_-Beta-.git)
+   git clone https://github.com/AMSANJEEV28/JavaScript_Algorithms_and_Data_Structures_-Beta-.git
    ```
 2. Navigate to the project folder:
    ```bash
